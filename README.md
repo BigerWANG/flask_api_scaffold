@@ -33,6 +33,6 @@ pip install -r requirements.txt -i http://pypi.douban.com/simple/
 ./control stop       #停止
 ./control restart    #重启
 ./control status     #查看状态
-./control tail       #查看简单的启日志
+./control tail       #查看日志
 ./control kill9      #强制停止
 ./control version    #查看当前的Git版本
