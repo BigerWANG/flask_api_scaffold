@@ -1,0 +1,64 @@
+# English translations for PROJECT.
+# Copyright (C) 2017 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2017-12-20 17:45+0800\n"
+"PO-Revision-Date: 2017-12-08 16:03+0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+
+#: mysite/utils/sender.py:46 mysite/utils/sender.py:50
+msgid "Mailbox configuration error"
+msgstr ""
+
+#: mysite/utils/sender.py:55 mysite/utils/sender.py:89
+msgid "The recipient or the content is empty"
+msgstr ""
+
+#: mysite/utils/sender.py:76 mysite/views/auth/copInfo.py:38
+#: mysite/views/auth/login.py:54 mysite/views/auth/logout.py:22
+#: mysite/views/auth/userInfo.py:26 mysite/views/plus/releaseitem.py:75
+#: mysite/views/plus/template.py:64
+msgid "success"
+msgstr ""
+
+#: mysite/utils/sender.py:84
+msgid "SMS configuration error"
+msgstr ""
+
+#: mysite/utils/sender.py:93 mysite/views/plus/template.py:61
+#: mysite/views/plus/template.py:63 mysite/views/plus/template.py:71
+msgid "This function is not implemented temporarily"
+msgstr ""
+
+#: mysite/views/auth/copInfo.py:26 mysite/views/auth/copInfo.py:44
+#: mysite/views/auth/userInfo.py:29 mysite/views/auth/userInfo.py:33
+msgid "user not login"
+msgstr ""
+
+#: mysite/views/auth/login.py:34 mysite/views/plus/releaseitem.py:62
+#: mysite/views/plus/releaseitem.py:131 mysite/views/plus/template.py:44
+msgid "invalid params"
+msgstr ""
+
+#: mysite/views/auth/login.py:58 mysite/views/auth/logout.py:26
+#: mysite/views/plus/releaseitem.py:79 mysite/views/plus/releaseitem.py:129
+#: mysite/views/plus/template.py:68
+msgid "Internal Server Error"
+msgstr ""
+
+#: mysite/views/plus/releaseitem.py:97
+msgid "This data has already existed"
+msgstr ""
+
